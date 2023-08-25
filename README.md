@@ -1,5 +1,3 @@
-## Product Website https://developertask.000webhostapp.com/
-
 Technologies Used
 
 1. HTML
